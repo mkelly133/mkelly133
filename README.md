@@ -1,4 +1,6 @@
-## Hi there 👋
+## Mr Kelly's Github Account 👋
+For managing HSC courses in Software Development and Design and Software Engineering. 
+
 
 <!--
 **mkelly133/mkelly133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
